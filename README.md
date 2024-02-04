@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarangmp4
-- 👀 I’m interested in Electronics, Coding and Designing
-- 🌱 I’m currently learning Coding and Hardware
-- 💞️ I’m looking to collaborate on various fields
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sarang M P
+- 👀 I’m interested in Eembedded Systems and Coding.
+- 🌱 I’m currently learning Embedded software programming
+- 💞️ I’m looking to collaborate on various C/C++ related fields.
+- 📫 How to reach me -> linkedin.com/in/sarangmp  or mpsarang8@gmail.com
 
 <!---
 Sarangmp4/Sarangmp4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
