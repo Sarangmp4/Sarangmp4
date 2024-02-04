@@ -2,7 +2,7 @@
 - 👀 I’m interested in Eembedded Systems and Coding.
 - 🌱 I’m currently learning Embedded software programming
 - 💞️ I’m looking to collaborate on various C/C++ related fields.
-- 📫 How to reach me -> linkedin.com/in/sarangmp  or mpsarang8@gmail.com
+- 📫 How to reach me -> https://www.linkedin.com/in/sarangmp/  or mpsarang8@gmail.com
 
 <!---
 Sarangmp4/Sarangmp4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
